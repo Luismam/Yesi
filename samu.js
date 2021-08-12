@@ -950,7 +950,7 @@ case 'help':
 case 'menu':
 case 'comandos':
 
-rede = '*😊Seamos amigos en facebook!!*'
+redes = '*😊Seamos amigos en facebook!!*'
 opcion = redes[Math.floor(Math.random() * redes.length)]
 
 var num = sam.participant
