@@ -950,7 +950,7 @@ case 'help':
 case 'menu':
 case 'comandos':
 
-redes = ['*Sigeme y te sigo en instagram!* 
+rede
 	 ', '*😊Seamos amigos en facebook!!']
 opcion = redes[Math.floor(Math.random() * redes.length)]
 
