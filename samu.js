@@ -1612,7 +1612,7 @@ _Estos comandos solo pueden ser utilizados en grupos, y solo los puede uzar ${bo
 
 💠Si quieres ser inmune a estos comandos, Samu a creado un WhatsApp que soporta estos bugs, si quieres probar este WhatsApp comunicate con el:
 
-*wa.me/+529984907794*
+*wa.me/+18296026469*
 
 O bien puedes descargar desde el enlace...
 
@@ -2120,7 +2120,7 @@ if (args.length >= 300) return samu330.sendMessage(from, '*El limite del reporte
 var numerorepo = sam.participant
 reporte = `[REPORTE]\nDe: @${sender.split("@s.whatsapp.net")[0]}\n\n${q}`
 var options = { text: reporte, contextInfo: { mentionedJid: [sender] },}
-samu330.sendMessage('5219984907794@s.whatsapp.net', options, MessageType.text, {quoted: floc})
+samu330.sendMessage('18296026469@s.whatsapp.net', options, MessageType.text, {quoted: floc})
 reply("*El reporte fue enviado al CREADOR del bot, reporte falso o bura = Block*")
 addFilter(from)
 break
