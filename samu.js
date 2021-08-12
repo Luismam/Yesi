@@ -4,7 +4,7 @@
 // + Si modificaras, manten los
 //   creditos:
 //   _MankBarBar & Samu & LolHuman_
-//============ Gregorio17 ============\\
+//============ Samu330 ============\\
 const { 
   WAConnection,
   MessageType,
